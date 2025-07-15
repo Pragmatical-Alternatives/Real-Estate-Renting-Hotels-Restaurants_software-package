@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Integrated property and hospitality management system (PMS)" << std::endl;
+    std::cout << "Integrated Property & Hospitality Management System (IPHMS)" << std::endl;
     std::cout << "This would offer a single platform to manage all types of properties – residential rentals, vacation rentals, hotels, and even event venues." << std::endl;
     std::cout << "Centralized reservation and booking: Managing reservations across different property types (e.g., hotel rooms, apartments, restaurant tables) on a unified calendar." << std::endl;
     std::cout << "Channel manager: Synchronizing availability and rates across various online travel agencies (OTAs) and direct booking channels (e.g., Booking.com, Airbnb, Expedia)." << std::endl;
